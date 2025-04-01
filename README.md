@@ -5,7 +5,7 @@ This project explores the factors that contribute to a song's popularity on Spot
 
 ## Data Sources
 - The dataset includes the **top 25 most popular songs from 2013 to 2023** on Spotify.
-- **Data Source**: Kaggle Spotify dataset
+- **Data Source**: Kaggle Spotify dataset ([Spotify Dataset - 2023](#))
 - Key features analyzed: 
   - **Danceability**: Measured using song features such as beat strength, tempo stability, and overall tempo. This value determines how easily a person could dance to a song throughout its entirety.
   - **Valence**: A measure from 0.0 to 1.0 (or 0-100%) describing the musical positiveness conveyed by a track. Songs with high valence sound more positive (e.g., happy, cheerful, euphoric), while songs with low valence sound more negative (e.g., sad, depressed, angry).
@@ -25,7 +25,7 @@ This project explores the factors that contribute to a song's popularity on Spot
 
 ## Tools Used
 - **Tableau**: Data visualization and analysis
-- **Kaggle Spotify Dataset**: Source of song attributes and popularity metrics
+- **Kaggle Spotify Dataset**: Source of song attributes and popularity metrics ([Spotify Dataset - 2023](#))
 - **Python (Optional)**: For data preprocessing and cleaning (if applicable)
 
 ## Conclusion
@@ -42,4 +42,4 @@ Understanding the characteristics of popular songs provides insights into music 
 ---
 
 ### How to View the Project
-The Tableau dashboard for this analysis can be accessed [here](#) (Insert Tableau Public link if available).
+Full analysis can be accessed [here](#).
