@@ -26,7 +26,7 @@ This project explores the factors that contribute to a song's popularity on Spot
 ## Tools Used
 - **Tableau**: Data visualization and analysis
 - **Kaggle Spotify Dataset**: Source of song attributes and popularity metrics ([Spotify Dataset - 2023](#))
-- **Python (Optional)**: For data preprocessing and cleaning (if applicable)
+- **Python (Optional)**: For data preprocessing and cleaning.
 
 ## Conclusion
 Understanding the characteristics of popular songs provides insights into music industry trends and consumer behavior. This analysis highlights how danceability and valence contribute to a song’s success on streaming platforms like Spotify.
